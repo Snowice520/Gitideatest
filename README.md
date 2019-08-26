@@ -1,2 +1,2 @@
 # Gitideatest
-在idea上测试版本控制
+在idea上测试版本控制。。。
